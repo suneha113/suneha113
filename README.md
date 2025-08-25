@@ -10,6 +10,6 @@ and, "this is me trying"😵‍💫🧑🏻‍💻
 - Accidentally dropping cols. and realizing "oh, i needed that!"🙂‍↔️
 
 ## Technical Skills:
-- **Python:** definitely have moved past "print("Hello World")"👍🏻
+- **Python:** have definitely made it on the other side of "print("Hello World")"👍🏻
 - **SQL:** joins, subqueries, aggregations... befriending them pretty well🤔
 - **Power BI:** just getting started, loving how data turns to visuals🤯
