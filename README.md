@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Suneha!😼
 
-<!--
-**suneha113/suneha113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+and, "this is me trying"😵‍💫💻
 
-Here are some ideas to get you started:
+---
+## Canon Events:
+- Master's student visualizing her way to **Data Analytics and ML** 
+- Training ML models that either behave or throw tantrums🗿
+- Building skills project by project
+- Accidentally dropping cols. and realizing "oh, i needed that!"🙂‍↔️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills:
+- **Python:** definitely have moved past "print("Hello World")"👍🏻
+- **SQL:** joins, subqueries, aggregations... befriending them pretty well🤔
+- **Power BI:** just getting started, loving how data turns to visuals🤯
+
+
+
