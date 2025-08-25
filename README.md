@@ -1,6 +1,6 @@
 ## Hi, I'm Suneha!😼
 
-and, "this is me trying"😵‍💫💻
+and, "this is me trying"😵‍💫🧑🏻‍💻
 
 ---
 ## Canon Events:
